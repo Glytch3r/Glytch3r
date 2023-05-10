@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Glytch3r
-- 👀 I’m interested in creating shortcuts to tasks that are repetitive 
-- 🌱 I’m currently learning AHK, Hidmacro & some other stuff
-- 💞️ I’m looking to collaborate on ... pretty much anything
-- 📫 How to reach me try https://campsite.bio/glytch3r
+Team Orbit:
+https://discord.gg/2skchrKrDv
 
-<!---
-Glytch3r/Glytch3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Team Glytch3r:
+https://www.youtube.com/watch?v=b1V4g5a2fr0
+
+Team Orbit Portfolio:
+https://steamcommunity.com/id/glytch3r/myworkshopfiles/?section=collections&appid=108600 
